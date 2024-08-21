@@ -48,5 +48,6 @@ public class InsertARecordTest {
     @Test
     public void addSongTest(){
         Assert.assertTrue(insertARecord.problem1());
+        
     }
 }
